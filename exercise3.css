@@ -1,0 +1,12 @@
+body{background-color: green;}
+
+.boxer{border: black 3px dashed;
+margin:20px;
+padding: 20px 10% 20px 10%
+}
+
+.redpanda{color: red;}
+
+.greenmonkey{color: darkgreen;}
+
+.purplepuppy{color: purple}
