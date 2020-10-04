@@ -1,0 +1,26 @@
+.boxing{border: purple .5px dashed;
+        margin: 40px;
+        padding: 80px 20% 10px 20%;
+        text-align: center;
+      font-size: 10px;}
+
+  .greenpanda{color:green;
+        font-weight: bold;
+        font-size: 10px;
+        text-align: center;}
+
+  .orangefruit {color:orange;
+        font-size: 20px;}
+
+  .redpanda{color:red;
+        font-size: 10px;
+        vertical-align: top;}
+
+  .purplepuppy{color:purple;
+        font-size: 10px;
+        text-align: right;}
+
+  .sun{color:yellow;
+        text-transform: uppercase;
+        font-style: italic;
+        }
